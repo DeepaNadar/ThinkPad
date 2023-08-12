@@ -1,4 +1,4 @@
-# ThinkPad: Flutter Isar Notepad App
+# ThinkPad - Flutter Isar Notepad App
 ### ThinkPad is a Flutter app that allows users to create, update, save, and delete notes using the Isar embedded NoSQL database. The app provides both grid view and list view options to display notes. It features dynamic animations and thoughtful interactions to enhance the user experience.
 ## Features:
 1. **Empty State Animation**: If ThinkPad is empty (no notes), a Lottie animation is displayed, conveying that the notepad is currently empty.
