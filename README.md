@@ -6,9 +6,11 @@
 1. **Delete Notes with Animation**: When deleting a note, a dialog box with a Lottie animation is presented, providing visual feedback with a message stating "This note  will be permanently deleted."
 1. **Grid View and List View**: ThinkPad offers users the choice to view notes either in a grid view or list view. This provides flexibility in how users prefer to organize and interact with their notes.
 ## Screenshots:
-![ThinkPad1](https://github.com/DeepaNadar/thinkpad/assets/141585733/c343665d-9b37-4df7-95e2-032a8050efd8) ![ThinkPad2](https://github.com/DeepaNadar/thinkpad/assets/141585733/9741cd99-000e-4850-a62f-0477ee928821) ![ThinkPad3](https://github.com/DeepaNadar/thinkpad/assets/141585733/1a2610dd-3cb3-4d6e-97dc-e7e7f8c3616b)
-![ThinkPad4](https://github.com/DeepaNadar/thinkpad/assets/141585733/96664fc0-dfb0-4893-b2d2-387628936af9) ![ThinkPad5](https://github.com/DeepaNadar/thinkpad/assets/141585733/1a6394d8-1f35-4c3a-844b-33ba78102c2c) ![ThinkPad6](https://github.com/DeepaNadar/thinkpad/assets/141585733/cc7fe09f-da47-4b08-b468-8c64247fd6cd)
-![ThinkPad7](https://github.com/DeepaNadar/thinkpad/assets/141585733/c99b55df-f1e0-46dc-ad95-58159738ff7e) ![ThinkPad8](https://github.com/DeepaNadar/thinkpad/assets/141585733/1654aa38-07d6-499b-8061-35515c398051) ![ThinkPad9](https://github.com/DeepaNadar/thinkpad/assets/141585733/123ed007-a048-4838-9ed1-301fa504b41d)
+![ThinkPad1](https://github.com/DeepaNadar/ThinkPad/assets/141585733/690b1c1c-fda5-40e4-9f27-542a43ad5674) ![ThinkPad2](https://github.com/DeepaNadar/ThinkPad/assets/141585733/4324f6b5-403a-4d4f-ae04-29e22f5d448f)
+![ThinkPad3](https://github.com/DeepaNadar/ThinkPad/assets/141585733/3a7d7bbd-23e4-4604-8d74-feea49b940a1) ![ThinkPad4](https://github.com/DeepaNadar/ThinkPad/assets/141585733/9d9a8470-df8e-4aa8-bfb3-a344c17508fa)
+![ThinkPad5](https://github.com/DeepaNadar/ThinkPad/assets/141585733/5cf9436f-773b-43c4-923d-76ad86617a33) ![ThinkPad6](https://github.com/DeepaNadar/ThinkPad/assets/141585733/c31a1ca3-882c-4184-9569-e4c939373137)
+![ThinkPad7](https://github.com/DeepaNadar/ThinkPad/assets/141585733/1914c715-5ce1-4628-9e02-ea5ea5ba2529) ![ThinkPad8](https://github.com/DeepaNadar/ThinkPad/assets/141585733/9d6a6014-f778-4e80-95a9-70cf985f7826)
+![ThinkPad9](https://github.com/DeepaNadar/ThinkPad/assets/141585733/4c786220-c372-4db5-8967-b8b1ac448ae3)
 ## Usage:
 ThinkPad provides a versatile and powerful platform for capturing your ideas and notes. Customize it according to your preferences and enjoy a clutter-free, organized, and efficient note-taking experience.
 
